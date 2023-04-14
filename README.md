@@ -33,7 +33,6 @@
 <h2 align="center">💻 Technologies</h2>
 <br />
 <p align="center">
-  
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
@@ -100,8 +99,8 @@
     <img
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
   />
-  
-  
+  </p>
+
   <!-- 
   https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
 
@@ -129,13 +128,11 @@
 
 
   
-</p>
 
 <h2 align="center">📚 Education</h2>
 <br />
 
 <p align="center">
-  
   <img
     src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"
   />
@@ -154,8 +151,6 @@
      <img
     src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
   /> 
-
-
 </p>
 
 <hr />
