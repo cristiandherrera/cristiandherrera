@@ -7,8 +7,36 @@
   </a>
 </h1>
 
-
+<h5 align="center">
+  <a href="https://www.linkedin.com">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://stackoverflow.com/">
+    <img
+      src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    />
+  </a>
+  <a href="https://www.codewars.com/">
+    <img
+      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"
+    />
+  </a>
+  <a href="https://codepen.io/">
+    <img
+      src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+    />
+  </a>
+    <a href="https://www.codewars.com/">
+    <img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+    />
+</h5>
 <br />
+
+
+
 <p align="center">
   Hi, I'm Crisitian Herrera, a Web Developer from California
   <br />
@@ -17,7 +45,7 @@
   <br />
   💻 I love writing code and learn anythings about it
   <br />
-  💬 Visit my portfolio and see my work..
+  💬 Visit my portfolio and see my work...
   <a href="https://cristianherrera.dev/" title="Projects"
     >Here</a
   >
@@ -100,8 +128,6 @@
   https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 
   https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
-
-  https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
   
   https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
   
