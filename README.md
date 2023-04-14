@@ -69,15 +69,6 @@
     <img
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
   />
-   <img
-    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
-  /> 
-    <img
-    src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-  /> 
-    <img
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  />
     <img
     src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
   /> 
@@ -85,26 +76,26 @@
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
   />
     <img
-    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
-  />
-   <img
-    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
-  /> 
-    <img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-  /> 
-    <img
-    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+    src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"
   />
     <img
-    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+    src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"
+  />
+     <img
+    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
+  /> 
+     <img
+    src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+  />
+    <img 
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
   />
   </p>
 
   <!-- 
-  https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-
-  https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
 
   https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 
@@ -115,12 +106,8 @@
   https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
   
   https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
+    
   
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-  
-  https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
-  
-  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 -->
 
 
@@ -152,6 +139,38 @@
     src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
   /> 
 </p>
+
+
+<h2 align="center">🔧 Tools</h2>
+<br />
+
+<p align="center">
+    <img
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+  /> 
+    <img
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
+  />
+   <img
+    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
+  /> 
+    <img
+    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+  /> 
+    <img
+    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+  />
+</p>
+
 
 <hr />
 
