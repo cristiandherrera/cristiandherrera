@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;_+_+.+This+is+Cristian+Herrera....;Nice+to+meet+you!&center=true&size=30"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Cristian....;Nice+to+meet+you!&center=true&size=30"
     />
   </a>
 </h1>
@@ -71,6 +71,32 @@
 </p>
 <hr />
 
+<h2 align="center">Education</h2>
+<br />
+
+<p align="center">
+  
+  <img
+    src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"
+  />
+   <img
+    src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"
+  />
+   <img
+    src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"
+  />
+    <img
+    src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"
+  /> 
+    <img
+    src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"
+  /> 
+  
+
+</p>
+
+<hr />
+
 <h2 align="center">⚡ Stats</h2>
 <br />
 <p align="center"></p>
@@ -82,14 +108,14 @@
     <img
       align="center"
       width="390"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=caiolombello&theme=react&border=61dafb&hide_border=true"
-      alt="caiolombello"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=cristiandherrera&theme=react&border=61dafb&hide_border=true"
+      alt="cristiandherrera"
   /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
       width="390"
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=caiolombello&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=cristiandherrera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true"
       alt="Caio's github stats"
   /></a>
 </div>
@@ -98,12 +124,12 @@
     ><img
       width="325"
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolombello&layout=compact&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandherrera&layout=compact&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
   /></a>
 </div>
 <br />
 <img
-  src="https://activity-graph.herokuapp.com/graph?username=caiolombello&theme=react-dark&bg_color=20232a&hide_border=true"
+  src="https://activity-graph.herokuapp.com/graph?username=cristiandherrera&theme=react-dark&bg_color=20232a&hide_border=true"
   width="100%"
 />
 <!--
@@ -131,11 +157,11 @@
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/caiolombello?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/cristiandherrera?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <!--
-**caiolombello/caiolombello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cristiandherrera/cristiandherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -151,6 +177,6 @@ Here are some ideas to get you started:
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
-![Metrics](https://metrics.lecoq.io/caiolombello?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/cristiandherrera?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
