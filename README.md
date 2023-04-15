@@ -45,10 +45,13 @@
   <br />
   💻 I love writing code and learn anythings about it
   <br />
-  💬 Visit my portfolio and see my work...
+  🗄️ Visit my portfolio and see my work...
   <a href="https://cristianherrera.dev/" title="Projects"
-    >Here</a
-  >
+    >Here</a>
+  <br />
+  🧾 And to see my resume click over...
+   <a href="https://cristianherrera.dev/Cristian_Herrera's_Resume.pdf" title="Projects"
+    >Here</a>
   <br />
   📫 How to reach me:
   <br>
