@@ -45,7 +45,7 @@
   <br />
   💻 I love writing code and learn anythings about it
   <br />
-  🗄️ Visit my portfolio and see my work...
+  🗄️ Visit my portfolio website and see my work...
   <a href="https://cristianherrera.dev/" title="Projects"
     >Here</a>
   <br />
