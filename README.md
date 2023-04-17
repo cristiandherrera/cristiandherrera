@@ -6,7 +6,7 @@
     />
   </a>
 </h1>
-
+<!--
 <h5 align="center">
   <a href="https://www.linkedin.com">
     <img
@@ -34,7 +34,7 @@
   </a>
 </h5>
 <br />
-
+-->
 
 
 <p align="center">
