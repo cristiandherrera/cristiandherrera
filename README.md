@@ -112,6 +112,16 @@
      <img
     src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
   /> 
+    <img
+    src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
+  />
+   <img
+    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"
+  /> 
+   <img
+    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+  />
+
   <!--
      <img
     src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
@@ -167,7 +177,7 @@
   /> 
 </p>
 -->
-
+<!--
 <h2 align="center">🔧 Tools</h2>
 <br />
 
@@ -191,7 +201,7 @@
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
   />
 </p>
-
+-->
 
 <hr />
 
