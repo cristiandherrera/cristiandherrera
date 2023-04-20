@@ -151,7 +151,7 @@
 
   
 
-<h2 align="center">📚 Education</h2>
+<!-- <h2 align="center">📚 Education</h2>
 <br />
 
 <p align="center">
@@ -174,7 +174,7 @@
     src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
   /> 
 </p>
-
+ -->
 <!--
 <h2 align="center">🔧 Tools</h2>
 <br />
