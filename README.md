@@ -51,7 +51,7 @@
    <a href="https://cristianherrera.dev/Cristian_Herrera's_Resume.pdf" title="Projects"
     >Here</a>
   <br />
-  📫 How to reach me:
+  📫 Reach me at my email contact@cristianherrera.dev:
   <br>
   <a href="mailto: contact@cristiandherrera.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
