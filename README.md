@@ -224,7 +224,7 @@
       src="https://github-readme-stats.vercel.app/api?username=cristiandherrera&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=5&layout=compact&border_color=61dafb&hide_border=true"
       alt="Caio's github stats"
   /></a>
-</div>
+<!-- </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"
     ><img
@@ -232,7 +232,7 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandherrera&layout=compact&theme=buefy&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
   /></a>
-</div>
+</div> -->
 <!-- <br />
 <img
   src="https://activity-graph.herokuapp.com/graph?username=cristiandherrera&theme=react-dark&bg_color=20232a&hide_border=true"
