@@ -176,7 +176,7 @@
 </p>
  -->
 
-<h2 align="center">🔧 Tools</h2>
+<!-- <h2 align="center">🔧 Tools</h2>
 <br />
 
 <p align="center">
@@ -198,7 +198,7 @@
     <img
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
   />
-</p>
+</p> -->
 
 
 <hr />
