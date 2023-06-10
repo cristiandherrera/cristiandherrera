@@ -59,7 +59,7 @@
 </p>
 
 <hr />
-<h2 align="center">💻 Technologies</h2>
+<h2 align="center">💻 Technologies and Tools </h2>
 <br />
 <p align="center">
   <img
