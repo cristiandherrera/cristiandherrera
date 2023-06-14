@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  Hi, I'm Crisitian Herrera, a Web Developer from California!
+  Hi, I'm Crisitian Herrera, a Web Developer from California
   <br />
   <br />
   🎓 I'm currently studying for a bachelor's degree in Computer Science
