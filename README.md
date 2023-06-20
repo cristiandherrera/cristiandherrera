@@ -40,10 +40,6 @@
 <p align="center">
   Hi, I'm Crisitian Herrera, a Web Developer from California
   <br />
-  <a href="https://www.linkedin.com/in/cristiandherrera/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  <br />
 <!--   <br />
   🎓 I'm currently studying for a bachelor's degree in Computer Science -->
   <br />
@@ -55,11 +51,14 @@
    <a href="https://cristianherrera.dev/Cristian_Herrera's_Resume.pdf" title="Projects"
     >Here</a>
   <br />
-  📫 Reach me at my email contact@cristianherrera.dev:
+  📫 Or to reach me via email or LinkedIn click below:
   <br>
   <a href="mailto: contact@cristiandherrera.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+    <a href="https://www.linkedin.com/in/cristiandherrera/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </p>
 
 <hr />
