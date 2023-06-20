@@ -39,12 +39,13 @@
 
 <p align="center">
   Hi, I'm Crisitian Herrera, a Web Developer from California
+  <br />
   <a href="https://www.linkedin.com/in/cristiandherrera/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   <br />
-  <br />
-  🎓 I'm currently studying for a bachelor's degree in Computer Science
+<!--   <br />
+  🎓 I'm currently studying for a bachelor's degree in Computer Science -->
   <br />
   🗄️ Visit my portfolio website and see my work...
   <a href="https://cristianherrera.dev/" title="Projects"
